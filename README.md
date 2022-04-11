@@ -43,3 +43,6 @@ And assign permissions like the example below. in menu `http://localhost:8000/ad
 
 # Config
 Open the file `Modules/Storage/config/module.php`, to change the root folder of the main **Storage Module**
+
+# Ladmin Storage Pro
+[ ![](https://github.com/hexters/assets/blob/main/ladmin-package/ladmin-storage/v1/pro/banner-pro.png?raw=true) ](https://ppmarket.org/browse/hexters-ladmin-storage-pro)
