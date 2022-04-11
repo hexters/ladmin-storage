@@ -1,0 +1,32 @@
+{
+    "name": "hexters/ladmin-storage",
+    "type": "library",
+    "description": "Package for view storage in laravel",
+    "license": "MIT",
+    "keywords": [
+        "Laravel",
+        "Laravel Package",
+        "Laravel Storage",
+        "Laravel Admin"
+    ],
+    "authors": [
+        {
+            "name": "Asep",
+            "email": "hexters@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hexters\\LadminStorage\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hexters\\LadminStorage\\StorageServiceProvider"
+            ],
+            "aliases": []
+        }
+    },
+    "require": {}
+}

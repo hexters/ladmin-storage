@@ -1,0 +1,10 @@
+{
+    "name": "storage",
+    "namespace": "Modules\\Storage\\",
+    "providers": [
+        "Modules\\Storage\\Providers\\StorageServiceProvider",
+        "Modules\\Storage\\Providers\\EventServiceProvider",
+        "Modules\\Storage\\Providers\\RouteServiceProvider"
+    ],
+    "status": "enabled"
+}
