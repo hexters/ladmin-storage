@@ -39,7 +39,7 @@ return [
 
 And assign permissions like the example below. in menu `http://localhost:8000/administrator/role`
 
-![](https://github.com/hexters/assets/blob/main/ladmin-package/ladmin-storage/v1/pro/permission.png?raw=true)
+![](https://github.com/hexters/assets/blob/main/ladmin-package/ladmin-storage/v1/free/access.png?raw=true)
 
 # Config
 Open the file `Modules/Storage/config/module.php`, to change the root folder of the main **Storage Module**
